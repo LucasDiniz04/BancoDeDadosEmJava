@@ -3,7 +3,8 @@ Projeto em linguagem Java que cria um Banco de Dados com JDBC em PostgreSQL.
 
 Para tudo funcionar corretamente utilize as informações abaixo como base.
 
-----PostgreSQL----
+PostgreSQL
+
 Nome da Database: DadosGerais
 Owner: postgres
 Porta: 5432
