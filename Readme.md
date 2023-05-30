@@ -1,17 +1,19 @@
 - Trabalho Avaliativo para conclusão de matéria | POO Em Java
-- Projeto em linguagem Java que cria um Banco de Dados com JDBC em PostgreSQL.
+*Projeto em linguagem Java que cria um Banco de Dados com JDBC em PostgreSQL.
 
-- Para tudo funcionar corretamente utilize as informações abaixo como base.
+* O Arquivo "main" do projeto é o "Criando Tabelas.java".
+
+* Para tudo funcionar corretamente utilize as informações abaixo como base.
 
 PostgreSQL
-##
-Nome da Database: DadosGerais
-Owner: postgres
-Porta: 5432
+
+* Nome da Database: DadosGerais
+* Owner: postgres
+* Porta: 5432
 
  - Estar utilizando a IDE Netbeans ou Visual Studio Code e certificar que tem o JDBC instalado na máquina.
-##
-Todo o código foi testado antes de ser postado no Github, mas caso encontre algum erro me avise por gentileza.
+
+* Todo o código foi testado antes de ser postado no Github, mas caso encontre algum erro me avise por gentileza.
 
 ------
 
