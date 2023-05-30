@@ -1,5 +1,5 @@
 - Trabalho Avaliativo para conclusão de matéria | POO Em Java
-*Projeto em linguagem Java que cria um Banco de Dados com JDBC em PostgreSQL.
+* Projeto em linguagem Java que cria um Banco de Dados com JDBC em PostgreSQL.
 
 * O Arquivo "main" do projeto é o "Criando Tabelas.java".
 
