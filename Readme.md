@@ -3,7 +3,7 @@
 
 * O Arquivo "main" do projeto é o "Criando Tabelas.java".
 
-* Para tudo funcionar corretamente utilize as informações abaixo como base.
+* Para tudo funcionar corretamente utilize as informações abaixo como base:
 
 PostgreSQL
 
